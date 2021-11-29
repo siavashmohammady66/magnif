@@ -1,3 +1,3 @@
-# jgb
 ![happy oct](jgb.png)
-jgb is clojure template system
+# jgb
+jgb is clojure template system which make life easier for clojure web app development
